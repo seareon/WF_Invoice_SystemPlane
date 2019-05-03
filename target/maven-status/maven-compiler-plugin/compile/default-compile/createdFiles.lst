@@ -1,0 +1,8 @@
+com\ibank\automation\system\invoiceplane\RobotDriverWrapper.class
+com\ibank\automation\system\invoiceplane\page\MenuNavigationBar.class
+com\ibank\automation\system\invoiceplane\page\ProductsPage.class
+com\ibank\automation\system\invoiceplane\InvoicePlaneClient.class
+com\ibank\automation\system\invoiceplane\page\LoginPage.class
+com\ibank\automation\system\invoiceplane\to\ProductTO.class
+com\ibank\automation\system\invoiceplane\page\MainPage.class
+com\ibank\automation\system\invoiceplane\page\CreateProductPage.class
